@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mapa de mejico</string>
+    <string name="localizar">localizar</string>
+    <string name="iniciar_jornada_de_trabajo">Iniciar jornada de trabajo</string>
+    <string name="finalizar_jornada_de_trabajo">finalizar jornada de trabajo</string>
+    <string name="fondo">fondo</string>
+    <string name="title_activity_maps">Localizacion</string>
+</resources>
